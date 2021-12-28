@@ -1,0 +1,34 @@
+{
+  "data": {
+    "archived": false,
+    "color": "light-green",
+    "current_status": {
+      "author": {
+        "name": "Greg Sanchez"
+      },
+      "color": "green",
+      "created_by": {
+        "name": "Greg Sanchez"
+      },
+      "html_text": "<body>The project <strong>is</strong> moving forward according to plan...</body>",
+      "text": "The project is moving forward according to plan...",
+      "title": "Status Update - Jun 15"
+    },
+    "custom_fields": {
+      "4578152156": "Not Started",
+      "5678904321": "On Hold"
+    },
+    "default_view": "calendar",
+    "due_date": "2019-09-15",
+    "due_on": "2019-09-15",
+    "followers": "12345,23456",
+    "html_notes": "<body>These are things we need to purchase.</body>",
+    "is_template": false,
+    "name": "Stuff to buy",
+    "notes": "These are things we need to purchase.",
+    "owner": "12345",
+    "public": false,
+    "start_on": "2019-09-14",
+    "team": "12345"
+  }
+}
